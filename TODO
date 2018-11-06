@@ -1,0 +1,3 @@
+1. Making highline menu system work nicer!
+2. OCSP Responses should work but don't currently
+3. PKCS 7 decrypt is commented out as it can only be done immediately after PKCS 7 Encrypt!
