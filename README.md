@@ -1,4 +1,4 @@
-SSLPlayPen Version 0.1 03-09-2008
+**SSL Playpen Version 0.1 03-09-2008**
 
 SSL Playpen is designed to provide a nicer front end to writing Ruby OpenSSL
 calls. 
@@ -25,4 +25,4 @@ enctext.txt - PKCS 7 Encrypted text Example
 
 All code and examples are provided as is and are not supported.
 Romek Szczesniak
-romeks@inidsol.uk
+romek@spikyblackcat.co.uk
