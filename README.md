@@ -1,1 +1,28 @@
-# sslplaypen
+Version 0.1 03-09-2008
+
+SSL Playpen is designed to provide a nicer front end to writing Ruby OpenSSL
+calls. 
+
+It is based on the OpenSSL presentation at Ruby Kaigi 2006.
+
+Requires:
+highline
+openssl
+ruby-termios-0.9.5
+
+Example files included for completeness:
+ca-root.crt - Example Root Certificate
+ca-root-key.pem - Example Root Certificate Private Key (password=password)
+subca.crt - Example SubCA Certificate
+client-cert.crt - Example Client Certificate
+ivfile - Example IV File
+keyfile - Example Keyfile
+req1.pem - Example Request (created by openssl req -new)
+client-cert-key.pem - Example Client Certificate Private Key
+crl1.crl - Example CRL for Example Root Certificate
+signedtext.txt - PKCS 7 Signed text Example
+enctext.txt - PKCS 7 Encrypted text Example
+
+All code and examples are provided as is and are not supported.
+Romek Szczesniak
+romeks@inidsol.uk
