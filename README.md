@@ -1,4 +1,4 @@
-#SSLPlayPen Version 0.1 03-09-2008
+SSLPlayPen Version 0.1 03-09-2008
 
 SSL Playpen is designed to provide a nicer front end to writing Ruby OpenSSL
 calls. 
